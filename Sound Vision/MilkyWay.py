@@ -359,7 +359,8 @@ if __name__ == '__main__':
     """
 
     # set data directory
-    chdir("C:/Users/Kalle/OneDrive/Asiakirjat/Python")
+    # chdir("C:/Users/Kalle/OneDrive/Asiakirjat/Python")
+    chdir("E:/development/python/RealTime3DwithPython/Sound Vision")
 
     # set screen size
     # first check available full screen modes

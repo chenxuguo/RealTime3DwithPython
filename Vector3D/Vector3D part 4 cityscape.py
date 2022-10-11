@@ -439,7 +439,7 @@ if __name__ == '__main__':
     """
 
     # set data directory
-    os.chdir("D:\kalle\Documents\Python")
+    os.chdir("E:/development/python/RealTime3DwithPython/Vector3D")
 
     # set screen size
     # first check available full screen modes

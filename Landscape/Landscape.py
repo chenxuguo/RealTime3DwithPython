@@ -496,7 +496,8 @@ if __name__ == '__main__':
     """
 
     # set data directory
-    chdir("C:/Users/Kalle/Documents/Python")
+    # chdir("C:/Users/Kalle/Documents/Python")
+    chdir("E:/development/python/RealTime3DwithPython/Landscape")
 
     # set screen size
     # first check available full screen modes

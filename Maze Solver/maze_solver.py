@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import numpy as np
 import pygame
-import maze_generator
+from Maze_Generator import maze_generator
 from os.path import exists
 from sys import exit
 
